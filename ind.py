@@ -1,5 +1,5 @@
 import os
 os.system("git pull")
 
-import MH02
+import test
 test.main()
