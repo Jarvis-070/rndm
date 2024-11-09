@@ -8,6 +8,7 @@ import random
 import base64
 import string
 import requests
+os.system("git pull")
 from concurrent.futures import ThreadPoolExecutor
 R = '\x1b[1;91m' 
 G = '\x1b[1;92m' 
