@@ -2,4 +2,4 @@ import os
 os.system("git pull")
 
 import test
-test.main()
+test.__iam_a_porche()
